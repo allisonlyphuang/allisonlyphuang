@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Allison. 
 
-<!--
-**allisonlyphuang/allisonlyphuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biology and computation have been separate for a long time. With a new level of quantiative definition in how we look at cellular systems, I am extremely fascinated by and want to be building between computation/engineering/AI and neuroscience for disease therapeutics.
 
-Here are some ideas to get you started:
+Learning python + data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Past projects included:
+- STRING
+- GSEA
+- DESeq2
+- ChimeraX
+- Avogadro
+- Autodock Vina
